@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @OfflinePing
 - 👀 I’m interested in 3D-Printing & Programming
-- 🌱 I’m currently learning Csharp, Java, HTML, CSS, JS, Python
-- 📫 How to reach me: find my Socials on https://cloudleague.eu
+- 🌱 I’m currently learning Csharp, Java, HTML, CSS, Python, GoLang
