@@ -8,9 +8,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on a **Server Management Dashboard**
- 
- 🌱 I’m currently learning **Docker & GoLang**
+ 🌱 I’m currently learning **Docker**
 
 💬 If you got questions about me **come [here](https://github.com/offlineping/offlineping/issues)**
 
