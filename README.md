@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Server Managment Dashboard**
+ 🔭 I’m currently working on a **Server Management Dashboard**
  
  🌱 I’m currently learning **Docker & GoLang**
 
