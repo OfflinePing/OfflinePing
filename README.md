@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **Docker**
+ 🌱 I’m currently learning **React Native**
 
 💬 If you got questions about me **come [here](https://github.com/offlineping/offlineping/issues)**
 
