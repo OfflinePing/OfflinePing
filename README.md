@@ -25,8 +25,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=golang,html,css,github,git" />
-    <img src="https://skillicons.dev/icons?i=python,java,mysql,sqllite" /><br>
+    <img src="https://skillicons.dev/icons?i=golang,html,css,github,git,nuxt,vue,tailwindcss,python,java,mysql,sqlite&perline=5&theme=dark" />
 </div>
 
 <br/>
