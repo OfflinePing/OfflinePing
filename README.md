@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **React Native**
+ 🌱 I’m currently learning **Nuxt 3**
 
 💬 If you got questions about me **come [here](https://github.com/offlineping/offlineping/issues)**
 
