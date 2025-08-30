@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **Nuxt 3**
+ 🌱 I’m currently learning **Nuxt 3/4**
 
 💬 If you got questions about me **come [here](https://github.com/offlineping/offlineping/issues)**
 
